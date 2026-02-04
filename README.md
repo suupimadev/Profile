@@ -53,6 +53,7 @@
 ---
 
 ## 構成イメージ
+<img width="717" height="341" alt="GuardDuty" src="https://github.com/user-attachments/assets/d98376d2-62f6-44b9-8c7e-62e83b392afe" />
 
 
 ---
